@@ -154,6 +154,7 @@ rosrun rl_lfd rl.py
 ```
 The agent runs 500 episodes, logs progress to a CSV, and prints the cumulative reward and parking success after each episode.
 
+| ![Training](Images/Training.gif) | ![Parking](Images/Parking.gif) |
 ---
 
 ## Project Structure
