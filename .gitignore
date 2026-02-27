@@ -1,0 +1,16 @@
+# Environment files
+.env
+.env.*
+
+# IDE / Editor
+.vscode/ipch
+*~
+
+# Dev Container and CI/CD
+.devcontainer/
+.github/
+
+# Claude
+.claude/
+.claude*
+CLAUDE.md
